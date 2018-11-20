@@ -27,5 +27,5 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Links
 =====
-The GNU nano homepage
+The GNU nano text editor
 https://www.nano-editor.org/
