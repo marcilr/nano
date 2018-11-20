@@ -8,5 +8,8 @@ GNU nano related links
 
 Links
 =====
+Documentation
+https://www.nano-editor.org/docs.php
+
 The GNU nano
 https://www.nano-editor.org/
