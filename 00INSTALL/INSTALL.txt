@@ -44,9 +44,8 @@ click OK
 click OK
 click OK
 
-
-
-
+NOTE: Found that running 'nano' at the dos prompt
+      indeed runs GNU nano v2.2.5
 
 
 Links
