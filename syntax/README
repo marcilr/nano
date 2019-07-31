@@ -1,0 +1,16 @@
+README
+Created Wed Jul 31 10:29:06 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+paste.txt
+  "Pasting clipboard contents into Nano requires a regular
+  right click (or shift+insert). You can mark blocks of text
+  in Nano only with the keyboard using Alt + A followed by
+  the arrow keys.  These can be copied to the buffer with
+  Ctrl + K. You can select text with the mouse to copy it
+  to the Clipboard (a PuTTY function).Oct 25, 2017"
+  --How to paste into nano from clipboard?
+    https://superuser.com/questions/1262153/how-to-paste-into-nano-from-clipboard
